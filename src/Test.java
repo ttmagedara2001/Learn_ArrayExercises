@@ -1,9 +1,12 @@
 //Import the Arrays class frm the java.util package.
 import java.util.*;
 
+//Define a class named Test.
 public class Test {
 
+    //The main method where the program execution starts.
             public static void main (String [] args){
+                //Declare and initialize an integer array names "arr".
         int[] arr = {2001,2002,2003,2004,2005,2006};
         int[] arr_new = new int[arr.length-1];
 
