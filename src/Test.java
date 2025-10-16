@@ -1,3 +1,4 @@
+//Import the Arrays class frm the java.util package.
 import java.util.*;
 
 public class Test {
